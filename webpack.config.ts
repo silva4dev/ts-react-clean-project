@@ -1,3 +1,4 @@
+import 'webpack-dev-server'
 import path from 'path'
 import { Configuration } from 'webpack'
 import { CleanWebpackPlugin } from 'clean-webpack-plugin'
