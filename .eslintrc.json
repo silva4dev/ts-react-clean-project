@@ -16,6 +16,7 @@
     "@typescript-eslint/prefer-nullish-coalescing": "off",
     "@typescript-eslint/unbound-method": "off",
     "@typescript-eslint/no-confusing-void-expression": "off",
+    "@typescript-eslint/consistent-indexed-object-style": "off",
     "react/jsx-uses-react": "off",
     "react/jsx-uses-vars": "off"
   },
